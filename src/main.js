@@ -6,6 +6,7 @@ import { setupCounter } from './counter.js'
 
 document.querySelector('#app').innerHTML = `
 <div class="max-w-sm rounded-2xl bg-white
+<center>
 p-6 shadow-lg">
 <h2 class="text-xl font-bold text-slate-900">
 สวัสดี Tailwind
@@ -17,6 +18,7 @@ p-6 shadow-lg">
 px-4 py-2 text-white">
 เริ่มเลย
 </button>
+</center>
 </div> 
 `
 
